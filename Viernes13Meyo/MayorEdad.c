@@ -60,3 +60,12 @@ int main() {
 
     return 0;
 }
+
+/*
+1. ¿Qué operadores lógicos utilizaste y por qué? Utilice && para la beca porque deben cumplirse todas las condiciones al mismo tiempo. Tambien utilice || en situación crítica porque basta con que se cumpla una condicion
+
+2.¿Qué condición fue la más compleja de estructurar? La condicion mas compleja fue la de la beca porque combina varias condiciones con && y ademas incluye un if anidado
+
+3.¿Tu código podría generar contradicciones? ¿Por qué? No hay contradicciones porque cada evaluaci0n es independiente. Un estudiante puede no reinscribirse y tambien estar en situación crtica
+
+*/
